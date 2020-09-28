@@ -27,3 +27,6 @@ Easy Ensemble-92%
 # Recommendation and Justification
 Out of all the models tested I would recommend the Easy Ensemble model. My justification is that it had the highest scores across the board. with a 99% precision average, a 94% recall average and a 92% accuracy score(14% higher than the second place spot held by Random Forest). If Easy Ensemble was out of the equation, Oversampling would be the recomendation, for it had the highest accuracy score and comparable averages. 
 
+# Project Description
+In this module we used machine learning models to find metrics of given datasets.
+
